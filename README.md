@@ -1,4 +1,4 @@
-# Numeric_Analysis_HW
+# Numerical_Analysis_HW
 Codes from the course Numeric Analysis
 
 数值分析课程中的代码
@@ -20,7 +20,7 @@ Codes from the course Numeric Analysis
 
 欢迎大家**star、fork、issue。**
 
-课程： NNU.3060 数值分析 
+课程： NNU.0401043060 数值分析 
 
 Author：Janssen Liu
 
